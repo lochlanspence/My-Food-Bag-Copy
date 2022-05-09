@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.Instructions {
+    text-align: center;
+    padding: 0 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.Instructions h3 {
+    text-transform: bold;
+}
+
+.Instructions img {
+    height: 200px;
+    width: 200px;
+}
+
+.See_bags_wrapper {
+    text-align: center;
+}
+
+.See_bags {
+    background-color: #77a222;
+    border: #77a222 1px solid;
+    color: white;
+    justify-content: center;
+    padding: 12.8px 32px;
+}
